@@ -1,0 +1,65 @@
+group_name,precision,recall,fscore,support,threshold,display_names,model_order
+General music,0.6595318755774561,0.9304801216597871,0.7719203388303145,4603,0.6,['Music'],1
+Human speech,0.6703558658266644,0.8984481971702419,0.7678205753291077,4382,0.7,['Speech'],10
+General vehicle sounds,0.41278065630397237,0.6848137535816619,0.5150862068965517,698,0.5,['Vehicle'],53
+"Machinery sounds: engines, lawn mowers, drills",0.864,0.19889502762430938,0.3233532934131736,543,0.65,"['Engine', 'Engine starting', 'Engine knocking', 'Idling', 'Vibration', 'Medium engine (mid frequency)', 'Heavy engine (low frequency)', 'Light engine (high frequency)', 'Lawn mower', 'Jackhammer', 'Rattle', 'Squeal']",49
+"Orchestral instruments: cellos, violins, flutes",0.7728813559322034,0.4505928853754941,0.5692883895131086,506,0.5,"['Cello', 'Double bass', 'String section', 'Violin, fiddle', 'Bowed string instrument', 'Classical music', 'Orchestra', 'Opera', 'Accordion', 'Traditional music', 'Zither', 'Harp', 'Pizzicato', 'Flute']",26
+"Electronic music genres: house, techno, dubstep",0.8316831683168316,0.17463617463617465,0.28865979381443296,481,0.65,"['Electronica', 'Trance music', 'Techno', 'House music', 'Electronic dance music', 'Dance music', 'Disco', 'Dubstep', 'Drum and bass', 'Electronic music', 'Zing', 'Pop music', 'Sampler', 'Drum machine', 'Shuffle']",59
+"String instruments: guitars, banjos",0.7881040892193308,0.44166666666666665,0.5660881174899866,480,0.6,"['Plucked string instrument', 'Guitar', 'Acoustic guitar', 'Strum', 'Flamenco', 'Steel guitar, slide guitar', 'Blues', 'Country', 'Bluegrass']",24
+Water and plumbing sounds,0.8326530612244898,0.4276729559748428,0.5650969529085873,477,0.5,"['Water tap, faucet', 'Sink (filling or washing)', 'Bathtub (filling or washing)', 'Fill (with liquid)', 'Gush', 'Drip', 'Liquid', 'Pour', 'Toilet flush', 'Water', 'Pump (liquid)', 'Toothbrush']",17
+"Rock music genres: punk, grunge, metal",0.8055555555555556,0.06621004566210045,0.12236286919831223,438,0.6,"['Punk rock', 'Grunge', 'Progressive rock', 'Psychedelic rock', 'Rock music', 'Independent music', 'Rock and roll', 'Roll', 'Heavy metal', 'Angry music', 'Cacophony', 'Ping']",57
+Electric guitar effects and techniques,0.8928571428571429,0.38071065989847713,0.5338078291814946,394,0.5,"['Chorus effect', 'Distortion', 'Effects unit', 'Reverberation', 'Electric guitar', 'Tapping (guitar technique)', 'Bass guitar', 'Electronic tuner', 'Echo', 'Harmonic', 'Sound effect']",16
+"Vehicle sounds: cars, motorcycles, horns",0.6716981132075471,0.46965699208443273,0.5527950310559006,379,0.55,"['Motor vehicle (road)', 'Car', 'Tire squeal', 'Race car, auto racing', 'Skidding', 'Car passing by']",56
+"Vocal music: choirs, chanting, humming",0.8650793650793651,0.2970027247956403,0.4421906693711967,367,0.5,"['Choir', 'A capella', 'Chant', 'Mantra', 'Vocal music', 'Humming', 'Female singing', 'Child singing', 'Synthetic singing']",44
+"Eating sounds: chewing, crunching, cracking",0.9166666666666666,0.1864406779661017,0.3098591549295775,354,0.5,"['Chewing, mastication', 'Biting', 'Crumpling, crinkling', 'Tearing', 'Crunch', 'Squish', 'Crushing', 'Crackle']",48
+"Power tool sounds: chainsaws, drills",0.7397260273972602,0.3282674772036474,0.45473684210526316,329,0.75,"['Chainsaw', 'Sawing', 'Power tool', 'Drill', 'Tools', ""Dental drill, dentist's drill"", 'Wood', 'Splinter']",63
+"Vehicle sounds: planes, helicopters, jets",0.8633093525179856,0.38095238095238093,0.5286343612334802,315,0.5,"['Aircraft engine', 'Fixed-wing aircraft, airplane', 'Aircraft', 'Propeller, airscrew', 'Jet engine', 'Helicopter', 'Eruption', 'White noise']",38
+"Dog sounds: barks, growls, howls",0.7897196261682243,0.5652173913043478,0.6588693957115009,299,0.55,"['Bark', 'Bow-wow', 'Yip', 'Whimper (dog)', 'Dog', 'Howl', 'Canidae, dogs, wolves', 'Growling', 'Pant']",11
+"Human sounds: laughter, giggles, babbling",0.8134328358208955,0.3824561403508772,0.5202863961813843,285,0.55,"['Laughter', 'Giggle', 'Snicker', 'Chuckle, chortle', 'Baby laughter', 'Belly laugh', 'Babbling']",29
+Brass instruments,0.8835616438356164,0.4690909090909091,0.6128266033254157,275,0.5,"['Brass instrument', 'Saxophone', 'French horn', 'Trombone', 'Trumpet', 'Clarinet', 'Foghorn']",15
+"Keyboard instruments: pianos, organs, synthesizers",0.8243243243243243,0.45185185185185184,0.5837320574162679,270,0.5,"['Keyboard (musical)', 'Harpsichord', 'Organ', 'Hammond organ', 'Electronic organ', 'Electric piano', 'Piano', 'Synthesizer']",27
+Telephone sounds and tones,0.94,0.3560606060606061,0.5164835164835165,264,0.5,"['Telephone', 'Dial tone', 'Telephone dialing, DTMF', 'Telephone bell ringing', 'Busy signal', 'Sidetone']",7
+"World music: Carnatic, Bollywood, folk, Middle Eastern",0.8596491228070176,0.37404580152671757,0.5212765957446809,262,0.5,"['Carnatic music', 'Music of Bollywood', 'Folk music', 'Middle Eastern music', 'Music of Asia', 'Sitar', 'Tabla']",25
+"Bell sounds: church bells, bicycle bells",0.9206349206349206,0.46586345381526106,0.6186666666666667,249,0.5,"['Church bell', 'Change ringing (campanology)', 'Bell', 'Tubular bells', 'Bicycle bell']",14
+"Alarm sounds: smoke detectors, fire alarms, beeps",0.8571428571428571,0.4918032786885246,0.625,244,0.5,"['Smoke detector, smoke alarm', 'Fire alarm', 'Alarm', 'Buzzer', 'Alarm clock', 'Beep, bleep']",18
+"Bird sounds: pigeons, bird calls",0.6363636363636364,0.5361702127659574,0.581986143187067,235,0.5,"['Pigeon, dove', 'Coo', 'Bird flight, flapping wings', 'Bird vocalization, bird call, bird song', 'Bird']",51
+Emergency vehicle alarms and sirens,0.875,0.7982456140350878,0.834862385321101,228,0.5,"['Emergency vehicle', 'Police car (siren)', 'Ambulance (siren)', 'Fire engine, fire truck (siren)', 'Siren', 'Civil defense siren', 'Car alarm']",0
+"Transportation sounds: trains, subways, buses",0.7102272727272727,0.5555555555555556,0.6234413965087282,225,0.5,"['Rail transport', 'Railroad car, train wagon', 'Train', 'Clickety-clack', 'Train wheels squealing', 'Subway, metro, underground', 'Bus']",21
+Woodwind instruments,0.975,0.17567567567567569,0.29770992366412213,222,0.5,"['Wind instrument, woodwind instrument']",12
+"World music: Latin, salsa, maracas",0.8421052631578947,0.21818181818181817,0.3465703971119133,220,0.5,"['Music of Latin America', 'Salsa music', 'Maraca', 'Rattle (instrument)', 'Tambourine']",46
+"Percussion instruments: glockenspiels, xylophones",0.8205128205128205,0.31527093596059114,0.4555160142348754,203,0.5,"['Mallet percussion', 'Glockenspiel', 'Marimba, xylophone', 'Vibraphone', 'Chime', 'Wind chime', 'Ice cream truck, ice cream van']",42
+"Electric appliance sounds: toothbrushes, razors, hums",0.8679245283018868,0.22885572139303484,0.36220472440944884,201,0.5,"['Electric toothbrush', 'Electric shaver, electric razor', 'Mains hum', 'Buzz']",41
+Vehicle horns and whistles: trains,0.8828828828828829,0.49,0.630225080385852,200,0.5,"['Train whistle', 'Steam whistle', 'Steam', 'Train horn', 'Hiss', 'Snake']",8
+"Cooking sounds: frying, boiling",0.9375,0.30303030303030304,0.45801526717557256,198,0.5,"['Frying (food)', 'Stir', 'Sizzle', 'Boiling', 'Chopping (food)']",33
+"Tools and materials: filing, sanding, hammering",0.8363636363636363,0.23834196891191708,0.3709677419354838,193,0.5,"['Filing (rasp)', 'Sanding', 'Rub', 'Hammer']",45
+"String instruments: banjos, mandolins, ukuleles, harmonica",0.8762886597938144,0.4473684210526316,0.5923344947735192,190,0.5,"['Banjo', 'Mandolin', 'Ukulele', 'Harmonica']",20
+"Farm animal sounds: chickens, turkeys, roosters",0.8842975206611571,0.5815217391304348,0.701639344262295,184,0.5,"['Turkey', 'Gobble', 'Chicken, rooster', 'Crowing, cock-a-doodle-doo', 'Cluck', 'Fowl']",4
+"Human sounds: sneezes, coughs, throat clearing",0.8333333333333334,0.4143646408839779,0.5535055350553505,181,0.5,"['Sneeze', 'Hiccup', 'Cough', 'Throat clearing']",37
+"Vocal efforts: screaming, crying, sobbing",0.8032786885245902,0.27071823204419887,0.4049586776859504,181,0.5,"['Screaming', 'Wail, moan', 'Crying, sobbing', 'Baby cry, infant cry', 'Whimper']",62
+"Pure tones: tuning forks, singing bowls",0.9066666666666666,0.38202247191011235,0.5375494071146245,178,0.5,"['Tuning fork', 'Singing bowl', 'Chirp tone', 'Sine wave']",19
+"Farm animal sounds: cattle, goats, sheep",0.8308823529411765,0.6384180790960452,0.7220447284345048,177,0.5,"['Cattle, bovinae', 'Moo', 'Livestock, farm animals, working animals', 'Goat', 'Sheep', 'Bleat']",6
+"Heart and body sounds: heartbeats, pulses",0.9459459459459459,0.41420118343195267,0.5761316872427983,169,0.5,"['Heart sounds, heartbeat', 'Heart murmur', 'Throbbing', 'Pulse']",31
+"Explosion sounds: firecrackers, fireworks",0.7391304347826086,0.30357142857142855,0.430379746835443,168,0.55,"['Fireworks', 'Firecracker', 'Explosion', 'Burst, pop']",61
+"Percussion instruments: cymbals, drums",0.845360824742268,0.49101796407185627,0.6212121212121212,167,0.5,"['Cymbal', 'Hi-hat', 'Bass drum', 'Rimshot', 'Snare drum', 'Drum roll', 'Drum kit', 'Cowbell']",30
+"Mechanical sounds: keyboards, typewriters, coins",0.8181818181818182,0.32926829268292684,0.46956521739130436,164,0.5,"['Typing', 'Computer keyboard', 'Typewriter', 'Coin (dropping)']",47
+"Household machines: sewing machines, cash registers, printers",0.8235294117647058,0.535031847133758,0.6486486486486486,157,0.5,"['Sewing machine', 'Cash register', 'Printer']",23
+"Household appliances: hair dryers, blenders, vacuums",0.855072463768116,0.4013605442176871,0.5462962962962963,147,0.5,"['Hair dryer', 'Vacuum cleaner', 'Blender']",35
+Toy weapon sounds: cap guns,0.8333333333333334,0.17123287671232876,0.2840909090909091,146,0.5,"['Cap gun', 'Arrow', 'Chop']",58
+"Weather sounds: thunderstorms, rain, wind",0.8169014084507042,0.4,0.537037037037037,145,0.5,"['Thunderstorm', 'Thunder', 'Rain on surface', 'Rain', 'Raindrop', 'Rustle']",52
+"Clock sounds: ticks, ticking",0.6987951807228916,0.4142857142857143,0.5201793721973095,140,0.5,"['Clock', 'Tick-tock', 'Tick']",54
+Insect sounds,0.9722222222222222,0.5,0.660377358490566,140,0.5,"['Insect', 'Cricket', 'Fly, housefly', 'Bee, wasp, etc.', 'Mosquito']",9
+Cat sounds,0.88,0.6330935251798561,0.7364016736401673,139,0.5,"['Meow', 'Caterwaul', 'Cat', 'Purr']",2
+"Firearm sounds: guns, gunshots",0.6764705882352942,0.3382352941176471,0.45098039215686286,136,0.55,"['Machine gun', 'Artillery fire', 'Gunshot, gunfire']",50
+"Bird sounds: geese, ducks",0.88,0.5196850393700787,0.6534653465346535,127,0.5,"['Goose', 'Honk', 'Duck', 'Quack']",32
+"Bird sounds: crows, owls",0.9117647058823529,0.49206349206349204,0.6391752577319587,126,0.5,"['Crow', 'Caw', 'Owl', 'Hoot']",22
+"Vehicle warning sounds: horns, toots",0.8095238095238095,0.408,0.5425531914893618,125,0.5,"['Vehicle horn, car horn, honking', 'Toot', 'Air horn, truck horn']",34
+DJ sounds,0.8983050847457628,0.4274193548387097,0.5792349726775956,124,0.5,"['Scratching (performance technique)', 'Scratch', 'Beatboxing']",36
+Percussion instruments: steelpan and bagpipes,0.9852941176470589,0.6036036036036037,0.7486033519553074,111,0.5,"['Steelpan', 'Bagpipes']",3
+Wind instruments: didgeridoo and shofar,0.9454545454545454,0.49056603773584906,0.6459627329192547,106,0.5,"['Didgeridoo', 'Shofar']",5
+"Equine sounds: horses, neighing, hoofbeats",0.9333333333333333,0.40384615384615385,0.5637583892617449,104,0.5,"['Horse', 'Neigh, whinny', 'Clip-clop']",39
+"Percussion instruments: timpani, gongs",0.8292682926829268,0.33663366336633666,0.4788732394366198,101,0.5,"['Timpani', 'Gong']",55
+"Sports sounds: basketball bounces, slams",0.9230769230769231,0.24242424242424243,0.384,99,0.5,"['Slam', 'Basketball bounce']",60
+Whistles,0.8888888888888888,0.5161290322580645,0.6530612244897959,93,0.5,"['Whistling', 'Whistle']",13
+"Sleep and digestion sounds: snoring, stomach rumbling",0.8541666666666666,0.44565217391304346,0.5857142857142857,92,0.5,"['Snoring', 'Stomach rumble']",40
+"Onomatopoeic sounds: plops, boings",0.9090909090909091,0.35714285714285715,0.5128205128205129,84,0.5,"['Plop', 'Boing']",43
+Amphibian sounds: frogs,0.9705882352941176,0.66,0.7857142857142857,50,0.5,"['Frog', 'Croak']",28
